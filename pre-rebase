@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+echo "Rebasing is illegal - STOP IT!"
+
+exit 1
